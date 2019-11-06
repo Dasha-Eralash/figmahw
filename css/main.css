@@ -16,6 +16,10 @@ font-weight: bold;
 font-size: 20px;
 color: #000000;
 }
+/* .firts_name{
+  mask: url(../img/home.svg);
+  -webkit-mask: url(../img/home.svg);
+} */
 .second_name{
 position: absolute;
 left: 164px;
@@ -88,6 +92,14 @@ font-size: 16px;
 line-height: 24px;
 color: #000000;
 }
+.nick_vasya{
+position: absolute;
+left: 564px;
+top: 74px;
+font-size: 14px;
+color: rgba(0, 0, 0, 0.5);
+text-decoration:none;
+}
 .part2 h2{
 position: absolute;
 width: 68px;
@@ -115,6 +127,16 @@ font-weight: normal;
 font-size: 16px;
 line-height: 24px;
 }
+.nick_win{
+position: absolute;
+left: 516px;
+top: 154px;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+color: rgba(0, 0, 0, 0.5);
+text-decoration: none;
+}
 .part3 h2{
 position: absolute;
 width: 87px;
@@ -141,4 +163,13 @@ top: 254px;
 font-weight: normal;
 font-size: 16px;
 line-height: 24px;
+}
+.nick_inna{
+position: absolute;
+left: 535px;
+top: 234px;
+font-size: 14px;
+line-height: 18px;
+color: rgba(0, 0, 0, 0.5);
+text-decoration: none;
 }
