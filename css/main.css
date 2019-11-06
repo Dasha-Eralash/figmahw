@@ -64,12 +64,81 @@ line-height: 24px;
 color: #000000;
 }
 .part1 h2{
-  position: absolute;
-  width: 116px;
-  height: 21px;
-  left: 432px;
-  top: 73px;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 21px;
+position: absolute;
+left: 432px;
+top: 73px;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+}
+.part1 img{
+position: absolute;
+width: 48px;
+height: 48px;
+left: 368px;
+top: 72px;
+}
+.part1 p{
+position: absolute;
+width: 395px;
+height: 24px;
+left: 432px;
+top: 94px;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+.part2 h2{
+position: absolute;
+width: 68px;
+height: 21px;
+left: 432px;
+top: 153px;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+}
+.part2 img{
+position: absolute;
+width: 48px;
+height: 48px;
+left: 368px;
+top: 152px;
+}
+.part2 p{
+position: absolute;
+width: 376px;
+height: 24px;
+left: 432px;
+top: 174px;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+}
+.part3 h2{
+position: absolute;
+width: 87px;
+height: 21px;
+left: 432px;
+top: 233px;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+}
+.part3 img{
+position: absolute;
+width: 48px;
+height: 48px;
+left: 368px;
+top: 232px;
+}
+.part3 p{
+position: absolute;
+width: 385px;
+height: 24px;
+left: 432px;
+top: 254px;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
 }
