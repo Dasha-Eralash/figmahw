@@ -8,19 +8,30 @@ font-family: 'Fira Code', monospace;
 background-color: #FDFFF8;
 box-sizing: border-box;
 }
-.firts_name{
+.nav__menu li a{
+display: inline-flex;
+align-items: center;
+font-size: 20px;
+font-weight: bold;
+text-decoration: none;
+padding: 16px 32px 16px 16px;
+color: inherit;
+border-radius: 50px;
+}
+/* .firts_name{
 position: absolute;
 left: 164px;
 top: 41px;
 font-weight: bold;
 font-size: 20px;
 color: #000000;
-}
+} */
+
 /* .firts_name{
   mask: url(../img/home.svg);
   -webkit-mask: url(../img/home.svg);
 } */
-.second_name{
+/* .second_name{
 position: absolute;
 left: 164px;
 top: 101px;
@@ -53,10 +64,10 @@ top: 312px;
 font-weight: bold;
 font-size: 16px;
 color: #FFFFFF;
-}
+} */
 
 /* part2 */
-h1{
+/* h1{
 position: absolute;
 width: 98px;
 height: 24px;
@@ -172,4 +183,4 @@ font-size: 14px;
 line-height: 18px;
 color: rgba(0, 0, 0, 0.5);
 text-decoration: none;
-}
+} */
