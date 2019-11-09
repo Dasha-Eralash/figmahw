@@ -18,6 +18,11 @@ padding: 16px 32px 16px 16px;
 color: inherit;
 border-radius: 50px;
 }
+.nav__menu li:hover a {
+  background: rgba(0, 0, 0, 0.05);
+  color: var(--accent-color);
+}
+
 /* .firts_name{
 position: absolute;
 left: 164px;
